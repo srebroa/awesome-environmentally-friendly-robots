@@ -1,5 +1,6 @@
 # awesome-environmentally-friendly-robots :earth_africa: :green_heart: :robot: :four_leaf_clover: :dragon: :star:
 The list of environmentally-friendly robots and machines projects. It includes projects from well-known companies as well as small startups, alongside student projects and Open Source initiatives. If you have an interesting project and you'd like to contribute to this list, please let me know. The easiest way to add this list to your favorites is by clicking the :star: in the top right corner of the page. This list is for you, so feel free to modify and use it as you wish, just remember to cite this source. No need to buy me a :coffee: enjoy it yourself if you like :smiley:
+This list is not yet complete, and I will update it in my free time :pencil:.
 
 # Tree Planting Robots :seedling: :deciduous_tree: :palm_tree:
 - [Dronecoria - Open source drone system for global reforestation](https://www.youtube.com/watch?app=desktop&v=jS0AgG3Nlsk&vl=fr) - [Dronecoria](https://dronecoria.org/en/main/)
