@@ -20,6 +20,9 @@ The 4ocean Harbor Skimmer, equipped with two 150-gallon-per-minute pumps, collec
 - [BeBot - Beach cleaning crawler robot](https://searial-cleaners.com/our-cleaners/bebot-the-beach-cleaner/)
 - [Omurlu Kutero Beach Cleaning Robot](https://www.youtube.com/watch?v=wfp4tHlxW84)
 
+# Green Spaces Waste Cleaning Robots 🏞️ 🌲
+- [Angsa Robotics](https://www.youtube.com/watch?v=aeaijhdBQGY) developed autonomous waste collection robot for green spaces. It is able to detect trash thanks to AI, generates path with obstacle avoidance and conduct some performance analysis.
+
 # Rubbish Sorting Robots :recycle:
 - [ZenRobotics](https://www.terex.com/zenrobotics/4.0-efficiency-perfected) specializes in delivering a variety of automated waste sorting solutions. Known for incorporating its AI-driven robots within both established and newly developed recycling centers, the company offers a spectrum of solutions including standalone, retrofit, and greenfield systems. [ZenRobotics Fast Picker in action](https://www.youtube.com/watch?v=mWmk-9pB30Y).
 - [Recycleye - AI powered automatic waste sorting](https://recycleye.com/solutions/) It is two-component system featuring a computer vision technology powered by artificial intelligence for precise identification of various waste categories, coupled with a robotic arm that operates along six axes to independently select valuable materials from a recycling conveyor belt. [Recycleye in action](https://www.youtube.com/watch?v=KPVSTjfcdng).
