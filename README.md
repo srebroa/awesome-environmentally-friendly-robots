@@ -13,8 +13,12 @@ The list of eco-friendly robots and machines projects.
 - [MR. Trash Wheel](https://www.mrtrashwheel.com/technology/) - Mr. Trash, the waterwheel that effectively removes rubbish from the river using river current to power its operation, depositing debris into a dumpster for incineration, which in turn generates power for nearby homes. In times of insufficient water current, a solar panel supplements the waterwheel's power supply, ensuring continuous operation. [MR. Trash in action - video](https://www.youtube.com/watch?v=cmpA60473Lw)
 - [4ocean Mobile Skimmer](https://www.youtube.com/watch?v=stZcW-b8lT0) 
 The 4ocean Harbor Skimmer, equipped with two 150-gallon-per-minute pumps, collects up to 1,200 pounds of marine debris by creating a slow-suction effect on the water surface.
+- [SeaClear - multi robot system for search and collect water litters](https://seaclear-project.eu/news/news/52-first-live-tests-of-seaclear-robots). The system consisting of a drone that searches for potential places to check, an underwater observation robot and a robot that collects garbage from the bottom of the water.
 
 # Beaches Waste Cleaning Robots :beach_umbrella: :sunny:
 
 - [BeBot - Beach cleaning crawler robot](https://searial-cleaners.com/our-cleaners/bebot-the-beach-cleaner/)
-- [Omurlu Kutero Beach Cleaning Robot](https://www.youtube.com/watch?v=wfp4tHlxW84) 
+- [Omurlu Kutero Beach Cleaning Robot](https://www.youtube.com/watch?v=wfp4tHlxW84)
+
+# Rubbish Sorting Robots :recycle:
+- [Recycleye - AI powered automatic waste sorting](https://recycleye.com/solutions/) It is two-component system featuring a computer vision technology powered by artificial intelligence for precise identification of various waste categories, coupled with a robotic arm that operates along six axes to independently select valuable materials from a recycling conveyor belt. [Recycleye in action](https://www.youtube.com/watch?v=KPVSTjfcdng).
