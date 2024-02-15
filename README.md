@@ -16,9 +16,8 @@ The 4ocean Harbor Skimmer, equipped with two 150-gallon-per-minute pumps, collec
 - [SeaClear - multi robot system for search and collect water litters](https://seaclear-project.eu/news/news/52-first-live-tests-of-seaclear-robots). The system consisting of a drone that searches for potential places to check, an underwater observation robot and a robot that collects garbage from the bottom of the water.
 
 # Beaches Waste Cleaning Robots :beach_umbrella: :sunny:
-
-- [BeBot - Beach cleaning crawler robot](https://searial-cleaners.com/our-cleaners/bebot-the-beach-cleaner/)
-- [Omurlu Kutero Beach Cleaning Robot](https://www.youtube.com/watch?v=wfp4tHlxW84)
+- [BeBot - Beach cleaning crawler robot](https://searial-cleaners.com/our-cleaners/bebot-the-beach-cleaner/) is designed to sift through sand, smooth out large beach areas, gather seaweed, and transport loads efficiently. It ensures the removal of all debris within a specified zone. With its built-in alert system, BeBot guarantees safety around its operational area and is adept at navigating challenging terrains.
+- [Omurlu Kutero Beach Cleaning Robot](https://www.youtube.com/watch?v=wfp4tHlxW84) Graduation robot project based on RPi4 and Arduino with camera for objects detection and recognition (Yolov5).
 
 # Green Spaces Waste Cleaning Robots 🏞️ 🌲
 - [Angsa Robotics](https://www.youtube.com/watch?v=aeaijhdBQGY) developed autonomous waste collection robot for green spaces. It is able to detect trash thanks to AI, generates path with obstacle avoidance and conduct some performance analysis.
