@@ -15,6 +15,8 @@ This list is not yet complete, and I will update it in my free time :pencil:.
 - [4ocean Mobile Skimmer](https://www.youtube.com/watch?v=stZcW-b8lT0) 
 The 4ocean Harbor Skimmer, equipped with two 150-gallon-per-minute pumps, collects up to 1,200 pounds of marine debris by creating a slow-suction effect on the water surface.
 - [SeaClear - multi robot system for search and collect water litters](https://seaclear-project.eu/news/news/52-first-live-tests-of-seaclear-robots). The system consisting of a drone that searches for potential places to check, an underwater observation robot and a robot that collects garbage from the bottom of the water.
+- [Interceptor](https://www.youtube.com/watch?v=bm1rH70wfJo). Project developed by The Ocean Cleanup, designed to extract plastic pollution from rivers before it can reach the oceans. It is an autonomous system that uses boat and conveyor belts to collect debris from the water's surface, efficiently preventing the flow of plastic into marine environments.
+
 
 # Beaches Waste Cleaning Robots :beach_umbrella: :sunny:
 - [BeBot - Beach cleaning crawler robot](https://searial-cleaners.com/our-cleaners/bebot-the-beach-cleaner/) is designed to sift through sand, smooth out large beach areas, gather seaweed, and transport loads efficiently. It ensures the removal of all debris within a specified zone. With its built-in alert system, BeBot guarantees safety around its operational area and is adept at navigating challenging terrains.
