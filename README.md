@@ -35,4 +35,4 @@ The 4ocean Harbor Skimmer, equipped with two 150-gallon-per-minute pumps, collec
 # AI-powered robotic solutions using renewable energy :earth_africa:
 - [Kolbev](https://kolbev.com/). Provides on-demand, autonomous, scalable, and intelligent EV charging system for recharging EVs with renewable energy at any given location within city limits. [Kolbev mobile robot in action](https://www.youtube.com/watch?v=Ykd-WxN0MRM)
 
-If you need support with your robotics project or if you're simply a robotics and new technology enthusiast, don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/adam-srebro-phd-90a3504b).
+If you need support with your robotics project or if you're simply a robotics and new technology enthusiast, don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/adam-srebro-phd-90a3504b) 🚀
